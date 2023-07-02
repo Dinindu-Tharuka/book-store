@@ -1,0 +1,24 @@
+End point to login/register = http://127.0.0.1:8000/store/login/
+
+Database Details
+
+'ENGINE': 'django.db.backends.mysql',
+'NAME': 'bookstore',
+'HOST': 'localhost',
+'USER': 'root',
+'PASSWORD': '1234',
+'PORT': '3310'
+
+i added port because i have installed another app that is using default port
+
+About
+
+You can register,login
+You can add,update and delete books
+
+Bugs
+
+1. i haven't installed validation to front end side
+2. User detail page not rendering css 
+3. book store - i had to show books ids because i coudn't figure out how
+   to send ids through html file.

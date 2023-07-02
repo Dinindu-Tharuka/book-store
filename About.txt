@@ -19,6 +19,5 @@ You can add,update and delete books
 Bugs
 
 1. i haven't installed validation to front end side
-2. User detail page not rendering css 
-3. book store - i had to show books ids because i coudn't figure out how
+2. book store - i had to show books ids because i coudn't figure out how
    to send ids through html file.
